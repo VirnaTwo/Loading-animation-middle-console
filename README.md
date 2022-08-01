@@ -1,1 +1,1 @@
-"# Loading-animation-middle-console" 
+# Loading-animation-middle-console
